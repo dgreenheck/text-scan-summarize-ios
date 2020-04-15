@@ -1,0 +1,6 @@
+module Pods_SimpleTextRecognition {
+  umbrella header "Pods-SimpleTextRecognition-umbrella.h"
+
+  export *
+  module * { export * }
+}
