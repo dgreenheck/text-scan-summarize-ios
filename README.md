@@ -4,9 +4,7 @@ This iOS app allows the user to scan a document using the device camera and gene
 
 ## Text Scanning
 
-The text scanning uses the Apple Vision framework and is based on an Apple example project.
-
-[Locating and Displaying Recognized Text on a Document](https://developer.apple.com/documentation/vision/locating_and_displaying_recognized_text_on_a_document)
+The text scanning uses the Apple Vision framework and is based on an Apple example project: [Locating and Displaying Recognized Text on a Document](https://developer.apple.com/documentation/vision/locating_and_displaying_recognized_text_on_a_document)
 
 - Note: For more information about this sample code project, see [WWDC 2019 Session 234: Text Recognition in Vision Framework](https://developer.apple.com/videos/play/wwdc19/234/).
 
